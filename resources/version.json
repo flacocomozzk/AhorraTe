@@ -1,6 +1,4 @@
 {
     "version": "1.0.1",
-    "log": [
-        "prueba de actualizaciones."
-    ]
+    "changelog_url": "https://raw.githubusercontent.com/flacocomozzk/AhorraTe/resources/CHANGELOG.md"
 }
